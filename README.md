@@ -30,7 +30,10 @@ Installing all the necessary components can be quite frustrating, feel free to b
     3. Inheritance(Child and Parent classes and Inheritance)
     4. Static vs Non-Static
 3. [Introduction To Github](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson4-IntroToGit.pdf)
-4. Intro To Robot Code
+    1. Committing and pulling files
+    2. git clone
+    3. Arrays and Method Overloading
+4. [Intro To Robot Code](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson5-IntroToRobotProgramming.pdf")
     1. Subsystems
     2. Command-Based Programming
 
