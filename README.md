@@ -3,7 +3,9 @@ The totally official, definitely real newbie education for the 2019 year
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.
 
-[Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) This lets you compile Java code
+[Install JDK Guide](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A) The official Oracle guide to install java 11
+
+[Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) A direct link to the jdk
 
 [Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use *uses beta-test installation, should be updated*
 
@@ -11,7 +13,8 @@ Installing all the necessary components can be quite frustrating, feel free to b
 
 [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Git gives you access to all the git commands, thereby letting you add files to our github repository
 
-[Install Labview](https://wpilib.screenstepslive.com/s/currentCS/m/labview/l/145005-installing-labview-for-frc-2018-labview-only) Labview is a type of coding language that can also be used to program the robot *Needs to be updated*
+[Install Labview](https://wpilib.screenstepslive.com/s/currentCS/m/labview/l/145005-installing-labview-for-frc-2018-labview-only) Labview is a type of coding language that can also be used to program the robot *Needs to be updated for 2019*
+
 
 ## Table Of Contents
 >This will be updated with links as we get further into the unit
@@ -33,18 +36,27 @@ Installing all the necessary components can be quite frustrating, feel free to b
     1. Committing and pulling files
     2. git clone
     3. Arrays and Method Overloading
-4. [Intro To Robot Code](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson5-IntroToRobotProgramming.pdf")
+4. [Intro To Robot Code](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson5-IntroToRobotProgramming.pdf)
     1. Subsystems
     2. Command-Based Programming
 
 ## Cheat Sheets
 > Check out the Cheet Sheets Folder for more
 
-- [wpilib documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
-- [ctre documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
-- [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/Cheat%20Sheets/FRCCompetitions.md "If you're confused about how our competitions work") *link needs to be updated*
+- [Wpilib Documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
+- [Ctre Documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
+- [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/cheat-sheets/FRCCompetitions.md "If you're confused about how our competitions work")
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
 - [Github For Beginners](https://juristr.com/blog/2013/04/git-explained/)
 - [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
 - [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)
+
+## Java Resources
+> For those that are hoping to sharpen their coding skillz
+> Note that most of these tutorials use Java 8. You will not be dealing with things complex enough that there will be a significant difference between Java 8 and Java 11.
+> All of these tutorials go beyond the amount that we expect you to know, so don't fret if there's something you don't understand.
+
+- [Tutorials Point](https://www.tutorialspoint.com/java/index.htm) If you know everything up to Object Oriented, you're fine (if you don't know everything up to Object Oriented you're probably also fine)
+- [Oracle](https://docs.oracle.com/javase/tutorial/java/index.html) 
+- [Geeks For Geeks](https://www.geeksforgeeks.org/java/) Note that this one goes way beyond what we expect you to know
