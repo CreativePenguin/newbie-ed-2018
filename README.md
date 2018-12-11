@@ -3,11 +3,13 @@ The totally official, definitely real newbie education for the 2019 year
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.
 
+Note that WPILib for 2018 has not been released yet, so as a result, a some of these installations cannot be done yet (unless you want to use last year's version)
+
 [Install JDK Guide](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A) The official Oracle guide to install java 11
 
 [Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) A direct link to the jdk
 
-[Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use *uses beta-test installation, should be updated*
+[Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use *uses alpha-test installation, should be updated*
 
 [Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599670-installing-the-frc-update-suite-all-languages) FIRST Update Suite gives you the proper applications to use robot code *Needs to be updated*
 
@@ -15,6 +17,11 @@ Installing all the necessary components can be quite frustrating, feel free to b
 
 [Install Labview](https://wpilib.screenstepslive.com/s/currentCS/m/labview/l/145005-installing-labview-for-frc-2018-labview-only) Labview is a type of coding language that can also be used to program the robot *Needs to be updated for 2019*
 
+### Libraries to Install
+
+[NavX](https://pdocs.kauailabs.com/navx-mxp/software/roborio-libraries/java/) NavX includes the gyro and the accelerometer *requires wpilib*
+
+[CTRE](http://www.ctr-electronics.com/downloads/installers/) CTRE includes TalonSRX and VictorSRX *is stupid*
 
 ## Table Of Contents
 >This will be updated with links as we get further into the unit
@@ -45,6 +52,7 @@ Installing all the necessary components can be quite frustrating, feel free to b
 
 - [Wpilib Documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
 - [Ctre Documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
+- [NavX Documentation](https://www.kauailabs.com/public_files/navx-mxp/apidocs/java/overview-summary.html)
 - [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/cheat-sheets/FRCCompetitions.md "If you're confused about how our competitions work")
 - [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
 - [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
