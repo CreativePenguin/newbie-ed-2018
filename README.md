@@ -19,13 +19,13 @@ Note that WPILib for 2018 has not been released yet, so as a result, a some of t
 
 ### Libraries to Install
 
-[NavX Windows](www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip)  NavX includes the gyro and the accelerometer *requires wpilib*
+NavX Windows: www.kauailabs.com/public_files/navx-mxp/navx-mxp.zip  NavX includes the gyro and the accelerometer *requires wpilib*
 
-[NavX Mac & Linux](www.kauailabs.com/public_files/navx-mxp/navx-mxp-libs.zip)
+NavX Mac & Linux: www.kauailabs.com/public_files/navx-mxp/navx-mxp-libs.zip
 
-[CTRE Windows](www.ctr-electronics.com/downloads/installers/CTRE%20Toolsuite%20v4.4.1.10.zip) CTRE includes the motors and encoders
+CTRE Windows: www.ctr-electronics.com/downloads/installers/CTRE%20Toolsuite%20v4.4.1.10.zip CTRE includes the motors and encoders
 
-[CTRE Mac & Linux](www.ctr-electronics.com//downloads/lib/CTRE_FRCLibs_NON-WINDOWS_v4.4.1.10.zip)
+CTRE Mac & Linux: www.ctr-electronics.com//downloads/lib/CTRE_FRCLibs_NON-WINDOWS_v4.4.1.10.zip
 
 ## Table Of Contents
 >This will be updated with links as we get further into the unit
