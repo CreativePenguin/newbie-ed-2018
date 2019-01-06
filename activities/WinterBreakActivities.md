@@ -28,7 +28,7 @@ Create a class called transportation. The class should have integer variables to
 
 ### Spinning Claw Of Doom
 
-Note: This is basically an arm, except with a spinning claw on top of it. Think Dr. Doom from spiderman, except with joints.
+Note: This is basically an arm, except with a spinning claw on top of it. Think General Greivous from Star Wars.
 
 Create a subsystem called the spinning claw of doom.
 The claw has 2 motors, and one for the elbow, and one that rotates the giant claw (ports 1 & 2).
