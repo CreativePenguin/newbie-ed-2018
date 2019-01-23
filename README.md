@@ -29,6 +29,10 @@ CTRE Mac & Linux: www.ctr-electronics.com//downloads/lib/CTRE_FRCLibs_NON-WINDOW
 
 REV SPARK MAX: https://www.revrobotics.com/sparkmax-software/#api-info
 
+Online Pathfinder Vendor JSON File: https://dev.imjac.in/maven/jaci/pathfinder/PathfinderOLD-latest.json
+
+Adding Third Party Libraries To VSCode: https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/682619-3rd-party-libraries#adding-an-offline-installed-library
+
 ## Table Of Contents
 >This will be updated with links as we get further into the unit
 
