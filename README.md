@@ -11,7 +11,7 @@ Note that WPILib for 2018 has not been released yet, so as a result, a some of t
 
 [Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use *uses alpha-test installation, should be updated*
 
-[Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/599670-installing-the-frc-update-suite-all-languages) FIRST Update Suite gives you the proper applications to use robot code *Needs to be updated*
+[Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/1027503-installing-c-and-java-development-tools-for-frc) FIRST Update Suite gives you the proper applications to use robot code 
 
 [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Git gives you access to all the git commands, thereby letting you add files to our github repository
 
@@ -26,6 +26,8 @@ NavX Mac & Linux: www.kauailabs.com/public_files/navx-mxp/navx-mxp-libs.zip
 CTRE Windows: www.ctr-electronics.com/downloads/installers/CTRE%20Toolsuite%20v4.4.1.10.zip CTRE includes the motors and encoders
 
 CTRE Mac & Linux: www.ctr-electronics.com//downloads/lib/CTRE_FRCLibs_NON-WINDOWS_v4.4.1.10.zip
+
+REV SPARK MAX: https://www.revrobotics.com/sparkmax-software/#api-info
 
 ## Table Of Contents
 >This will be updated with links as we get further into the unit
