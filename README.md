@@ -9,13 +9,13 @@ Note that WPILib for 2018 has not been released yet, so as a result, a some of t
 
 [Install JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html) A direct link to the jdk
 
-[Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use *uses alpha-test installation, should be updated*
+[Install Visual Studio](https://wpilib.screenstepslive.com/s/currentCS/m/79833/l/932382-installing-vs-code) Visual Studio is the IDE that we use
 
 [Install First Update Suite](https://wpilib.screenstepslive.com/s/currentCS/m/java/l/1027503-installing-c-and-java-development-tools-for-frc) FIRST Update Suite gives you the proper applications to use robot code 
 
 [Install Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) Git gives you access to all the git commands, thereby letting you add files to our github repository
 
-[Install Labview](https://wpilib.screenstepslive.com/s/currentCS/m/labview/l/145005-installing-labview-for-frc-2018-labview-only) Labview is a type of coding language that can also be used to program the robot *Needs to be updated for 2019*
+[Install Labview](https://wpilib.screenstepslive.com/s/currentCS/m/labview/l/145005-installing-labview-for-frc-2018-labview-only) Labview is a type of coding language that can also be used to program the robot
 
 ### Libraries to Install
 
@@ -27,7 +27,11 @@ CTRE Windows: www.ctr-electronics.com/downloads/installers/CTRE%20Toolsuite%20v4
 
 CTRE Mac & Linux: www.ctr-electronics.com//downloads/lib/CTRE_FRCLibs_NON-WINDOWS_v4.4.1.10.zip
 
+Limelight OpenCV: https://limelightvision.io/pages/downloads
+
 REV SPARK MAX: https://www.revrobotics.com/sparkmax-software/#api-info
+
+Online REV SPARK MAX Vender JSON File:  https://www.revrobotics.com/content/sw/max/sdk/REVRobotics.json
 
 Online Pathfinder Vendor JSON File: https://dev.imjac.in/maven/jaci/pathfinder/PathfinderOLD-latest.json
 
@@ -57,6 +61,7 @@ Adding Third Party Libraries To VSCode: https://wpilib.screenstepslive.com/s/cur
     1. Subsystems
     2. Command-Based Programming
 
+
 ## Cheat Sheets
 > Check out the Cheet Sheets Folder for more
 
@@ -70,6 +75,7 @@ Adding Third Party Libraries To VSCode: https://wpilib.screenstepslive.com/s/cur
 - [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
 - [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)
 
+
 ## Java Resources
 > For those that are hoping to sharpen their coding skillz
 > Note that most of these tutorials use Java 8. You will not be dealing with things complex enough that there will be a significant difference between Java 8 and Java 11.
@@ -78,3 +84,4 @@ Adding Third Party Libraries To VSCode: https://wpilib.screenstepslive.com/s/cur
 - [Tutorials Point](https://www.tutorialspoint.com/java/index.htm) If you know everything up to Object Oriented, you're fine (if you don't know everything up to Object Oriented you're probably also fine)
 - [Oracle](https://docs.oracle.com/javase/tutorial/java/index.html) 
 - [Geeks For Geeks](https://www.geeksforgeeks.org/java/) Note that this one goes way beyond what we expect you to know
+
