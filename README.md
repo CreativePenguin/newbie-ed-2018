@@ -1,5 +1,19 @@
 # newbie-ed-2019
 The totally official, definitely real newbie education for the 2019 year
+
+## Cheat Sheets
+> Documentation and stuff. Check out the Cheet Sheets Folder for more.
+
+- [Wpilib Documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
+- [Ctre Documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
+- [NavX Documentation](https://www.kauailabs.com/public_files/navx-mxp/apidocs/java/overview-summary.html)
+- [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/cheat-sheets/FRCCompetitions.md "If you're confused about how our competitions work")
+- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
+- [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
+- [Github For Beginners](https://juristr.com/blog/2013/04/git-explained/)
+- [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
+- [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)
+
 ## Installing Things
 Installing all the necessary components can be quite frustrating, feel free to bring your laptop in and ask an oldbie for help.
 
@@ -60,21 +74,6 @@ Adding Third Party Libraries To VSCode: https://wpilib.screenstepslive.com/s/cur
 4. [Intro To Robot Code](https://github.com/Team694/newbie-ed-2019/tree/master/presentations/Lesson5-IntroToRobotProgramming.pdf)
     1. Subsystems
     2. Command-Based Programming
-
-
-## Cheat Sheets
-> Check out the Cheet Sheets Folder for more
-
-- [Wpilib Documentation](http://first.wpi.edu/FRC/roborio/release/docs/java/)
-- [Ctre Documentation](http://www.ctr-electronics.com/downloads/api/java/html/index.html)
-- [NavX Documentation](https://www.kauailabs.com/public_files/navx-mxp/apidocs/java/overview-summary.html)
-- [First Competition Guidelines](https://github.com/Team694/newbie-ed-2019/blob/master/cheat-sheets/FRCCompetitions.md "If you're confused about how our competitions work")
-- [Visual Studio Code Documentation](https://code.visualstudio.com/docs)
-- [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf "download pdf")
-- [Github For Beginners](https://juristr.com/blog/2013/04/git-explained/)
-- [Awards in FIRST](https://www.firstinspires.org/sites/default/files/uploads/resource_library/frc/game-and-season-info/awards/2018/2018-complete-awards-chart.pdf "Different awards you can win in first competitions")
-- [Blay dab](https://thumbs.gfycat.com/OffensiveMediumFoxhound-size_restricted.gif)
-
 
 ## Java Resources
 > For those that are hoping to sharpen their coding skillz
